@@ -1,0 +1,20 @@
+.background {
+    background-color: #ffff66;
+    color:#000099; 
+    font-family: "Comfortaa";
+}
+h1, h2 {
+    font-family: 'Italianno', cursive;
+}
+h2:hover {
+    background-color: orange;
+    color: #000099;
+}
+img {
+    width: 17%;
+        height: 17%;
+    border-radius: 100px;
+}
+.name {
+    color: #3333ff;
+}
